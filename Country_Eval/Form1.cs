@@ -89,7 +89,7 @@ namespace Country_Eval
             KeyPreview = true;
             KeyDown += new KeyEventHandler(Form1_KeyDown);
             // lblStatus.Text = "© " + DateTime.Now.Year.ToString() + " CSG Team GmbH.";
-            lblStatus.Text = "© 2007 CSG Team GmbH.";
+            lblStatus.Text = "© 2017 CSG Team GmbH.";
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
